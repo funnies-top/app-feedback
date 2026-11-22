@@ -1,11 +1,13 @@
 # funnies 产品反馈 · App feedback
 
-这里收集趣剪（FunnyCut）、番里番茄（Funny Tomato）和 FunnyTrans 的使用问题与产品建议。可以先[查看已有反馈](https://github.com/funnies-top/app-feedback/issues)，也可以[写一条新反馈](https://github.com/funnies-top/app-feedback/issues/new?template=feedback.yml)。
+每款 App 都有独立的问题列表。请选择正在使用的产品，查看已知问题或提交建议。
 
-反馈及附件会公开显示。购买凭据、个人资料或需要私下查看的截图，请通过[支持邮箱](mailto:guo2184@icloud.com)发送。
+Choose your app to browse known issues or send feedback.
 
-## English
+| 产品 · App | 问题列表 · Issues | 新反馈 · Feedback |
+| --- | --- | --- |
+| 趣剪 · FunnyCut | [查看反馈 · View issues](https://github.com/funnies-top/funnycut-feedback/issues) | [提交反馈 · New issue](https://github.com/funnies-top/funnycut-feedback/issues/new?template=feedback.yml) |
+| 番里番茄 · Funny Tomato | [查看反馈 · View issues](https://github.com/funnies-top/funnytomato-feedback/issues) | [提交反馈 · New issue](https://github.com/funnies-top/funnytomato-feedback/issues/new?template=feedback.yml) |
+| FunnyTrans | [查看反馈 · View issues](https://github.com/funnies-top/funnytrans-feedback/issues) | [提交反馈 · New issue](https://github.com/funnies-top/funnytrans-feedback/issues/new?template=feedback.yml) |
 
-Report a problem or suggest an improvement for FunnyCut, Funny Tomato or FunnyTrans. [Browse existing feedback](https://github.com/funnies-top/app-feedback/issues) or [submit new feedback](https://github.com/funnies-top/app-feedback/issues/new?template=feedback.yml).
-
-Issues and attachments are public. For purchase receipts, personal details or screenshots you want to share privately, [email the developer](mailto:guo2184@icloud.com).
+订单凭据和私人截图请通过[支持邮箱](mailto:guo2184@icloud.com)发送。For receipts and private screenshots, [email the developer](mailto:guo2184@icloud.com).

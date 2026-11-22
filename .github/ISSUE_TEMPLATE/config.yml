@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 趣剪 · FunnyCut
+    url: https://github.com/funnies-top/funnycut-feedback/issues
+    about: 在这里查看或提交 FunnyCut 反馈。 Browse or submit feedback for FunnyCut.
+  - name: 番里番茄 · Funny Tomato
+    url: https://github.com/funnies-top/funnytomato-feedback/issues
+    about: 在这里查看或提交 Funny Tomato 反馈。 Browse or submit feedback for Funny Tomato.
+  - name: FunnyTrans
+    url: https://github.com/funnies-top/funnytrans-feedback/issues
+    about: 在这里查看或提交 FunnyTrans 反馈。 Browse or submit feedback for FunnyTrans.
